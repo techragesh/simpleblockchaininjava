@@ -76,9 +76,9 @@ public class Main {
 ![hash-right](hash-right.png)
 
 
-Lets say, If we change value from any one of the transcations,you complete block will get change. it will give the different hash values which has wrong.
+Lets say, If we change value from any one of the transcations,your complete block will get change. it will give different hash values which is wrong.
 
-We conclude you data was hacked by someone which is insecure.
+We conclude your data was hacked by someone which is insecure.
 
 For example, if we change genesis block transcations like this 
 
